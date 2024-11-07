@@ -16,5 +16,9 @@ I'm a curious and creative third-year IT student studies at Minsu Calapan Campus
 
 For a complete list of my projects and repositories, check out my GitHub profile: [codewithryry](https://github.com/codewithryry).
 
-## Message Me
-Feel free to reach out to me through my social media profiles or directly here if you have any questions, ideas, or just want to chat!
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abfasb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abfasb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abfasb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
