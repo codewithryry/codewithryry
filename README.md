@@ -5,9 +5,11 @@
   <a href="https://www.facebook.com/reymelrey.528191/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>  
+  
   <a href="https://www.tiktok.com/@betsyoneontg">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>  
+  
   <a href="https://www.instagram.com/rreeymel/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
@@ -39,16 +41,6 @@ For a complete list of my projects and repositories, check out my GitHub profile
   <img src="https://github-readme-stats.vercel.app/api?username=codewithryry&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithryry&theme=dark&hide_border=false" height="150" />  
 </div>  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithryry&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />  
-</div>  
-
-<div align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithryry&theme=dark" height="150" />  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithryry&theme=dark" height="150" />  
-</div>  
-
 
 ---
 
