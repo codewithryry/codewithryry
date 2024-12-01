@@ -52,6 +52,5 @@ For a complete list of my projects and repositories, check out my GitHub profile
   </a>  
 </div>  
 
-Thank you for visiting my GitHub profile!  
 Every visit inspires me to keep learning, building, and sharing projects with the world. 🚀  
 Feel free to explore my repositories and connect with me on my socials!
