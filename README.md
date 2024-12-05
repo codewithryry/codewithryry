@@ -40,6 +40,11 @@ For a complete list of my projects and repositories, check out my GitHub profile
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=codewithryry&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithryry&theme=dark&hide_border=false" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithryry&theme=dark&hide_border=false&count_private=true&layout=compact" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithryry&theme=radical&row=1&column=6&no-frame=true&no-bg=true" height="150" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codewithryry&bg_color=1A1B27&color=7A7C81&line=A7A7A7&point=FFFFFF&area=true&hide_border=true" height="150" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codewithryry&hide_border=true&theme=dark&langs_count=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/most-used-languages/?username=codewithryry&langs_count=6&hide_border=true&theme=dark" height="150" />
 </div>  
 
 ---
