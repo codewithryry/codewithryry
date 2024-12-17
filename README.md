@@ -1,19 +1,6 @@
 # 🌌 Hello World  
 
-## 🌐 Socials  
-<div align="left">  
-  <a href="https://www.facebook.com/reymelrey.528191/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>  
-  
-  <a href="https://www.tiktok.com/@betsyoneontg">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>  
-  
-  <a href="https://www.instagram.com/rreeymel/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>  
-</div>  
+
 
 ---
 
