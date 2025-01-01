@@ -17,11 +17,6 @@ When I'm not studying, you'll likely find me:
 
 ---
 
-## 📂 Featured Repositories  
-For a complete list of my projects and repositories, check out my GitHub profile:  
-[**codewithryry**](https://github.com/codewithryry?tab=repositories)  
-
----
 
 ## 📊 GitHub Stats  
 <div align="center">  
@@ -40,4 +35,3 @@ For a complete list of my projects and repositories, check out my GitHub profile
 </div>  
 
 Every visit inspires me to keep learning, building, and sharing projects with the world. 🚀  
-Feel free to explore my repositories and connect with me on my socials!
