@@ -8,13 +8,8 @@
 I'm a curious and creative **Third-year IT student** at **Minsu Calapan Campus**, always eager for new challenges. I enjoy:  
 - 🌍 Exploring different perspectives  
 - 📚 Learning about the world  
-- 🤝 Connecting with others  
-
-When I'm not studying, you'll likely find me:  
-- 📖 **Diving into a good book**  
-- 🎵 **Discovering new music**  
-- 📝 **Sharing my thoughts on social media**
-
+- 🤝 Connecting with others
+- 
 ---
 
 
