@@ -4,7 +4,8 @@
 
 ## About Me  
 
-I'm a curious and creative **third-year IT student** at **Minsu Calapan Campus**, always eager to take on new challenges. I enjoy:  
+Focused on building clean, intuitive user experiences with attention to usability and continuous improvement.  
+
 -  Exploring different perspectives  
 -  Learning about the world  
 -  Connecting with others  
