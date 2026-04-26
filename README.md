@@ -1,5 +1,5 @@
 # Hey, I'm Reymel 👋
-**Frontend Developer** · I design and build interfaces that feel fast, clear, and effortless to use.
+**Frontend Developer** · Full-Stack Capable · I design and build interfaces that feel fast, clear, and effortless to use.
 
 ---
 
